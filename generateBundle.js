@@ -1,5 +1,5 @@
 const fs = require('fs');
-const sources = ['./core-bundle.json', './bootstrap-bundle.json', './offline-bundle.json']
+const sources = ['./core/core-bundle.json', './bootstrap/bootstrap-bundle.json', './offline/offline-bundle.json']
 
 const bundles = {}
 
